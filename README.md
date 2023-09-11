@@ -1,13 +1,20 @@
 # ListadeTarefasCompose
 
+<img src="https://github.com/TaisPorto/ListadeTarefasCompose/blob/main/app/src/main/java/com/tais/listadetarefascompose/repositorio/result2/Screenshot_20230911_004201.png" alt="Imagem de Exemplo" width="200"> !
+<img src="https://github.com/TaisPorto/ListadeTarefasCompose/blob/main/app/src/main/java/com/tais/listadetarefascompose/repositorio/result2/Screenshot_20230911_004255.png" alt="Imagem de Exemplo" width="200"> !
+<img src="https://github.com/TaisPorto/ListadeTarefasCompose/raw/main/app/src/main/java/com/tais/listadetarefascompose/repositorio/result2/Screenshot_20230911_004320.png" alt="Imagem de Exemplo" width="200"> !
+<img src="https://github.com/TaisPorto/ListadeTarefasCompose/raw/main/app/src/main/java/com/tais/listadetarefascompose/repositorio/result2/Screenshot_20230911_004523.png" alt="Imagem de Exemplo" width="200"> !
+<img src="https://github.com/TaisPorto/ListadeTarefasCompose/raw/main/app/src/main/java/com/tais/listadetarefascompose/repositorio/result2/Screenshot_20230911_004559.png" alt="Imagem de Exemplo" width="200"> !
+<img src="https://github.com/TaisPorto/ListadeTarefasCompose/raw/main/app/src/main/java/com/tais/listadetarefascompose/repositorio/result2/Screenshot_20230911_004638.png" alt="Imagem de Exemplo" width="200">
 
 
-<img src="app/src/main/res/result/Screenshot_20230702_221549.png" alt="Descrição da imagem" width="180">&emsp;
-<img src="app/src/main/res/result/Screenshot_20230702_221605.png" alt="Descrição da imagem" width="180">&emsp;
-<img src="app/src/main/res/result/Screenshot_20230702_221625.png" alt="Descrição da imagem" width="180">
-<img src="app/src/main/res/result/Screenshot_20230702_221654.png" alt="Descrição da imagem" width="180">
-<img src="app/src/main/res/result/Screenshot_20230702_221710.png" alt="Descrição da imagem" width="180">
-<img src="app/src/main/res/result/Screenshot_20230702_221717.png" alt="Descrição da imagem" width="180">
+
+
+
+
+
+
+
 
 
 
