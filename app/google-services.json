@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "699264901151",
+    "project_id": "lista-de-tarefas-compose-1fc03",
+    "storage_bucket": "lista-de-tarefas-compose-1fc03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699264901151:android:90b80580ea7a758201752a",
+        "android_client_info": {
+          "package_name": "com.tais.listadetarefascompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699264901151-54kh19ar4tqecqdqil4q6cqu9ur62on6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz5nVMNMU0SEyGwUbJvr8l_1m7odYuh4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699264901151-54kh19ar4tqecqdqil4q6cqu9ur62on6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
