@@ -32,10 +32,10 @@ O aplicativo foi construído com as seguintes tecnologias e componentes:
 - **Android Architecture Components**: Componentes como ViewModel foram utilizados para gerenciar o estado da interface do usuário e manter os dados da lista de tarefas.
 
 - **Material Design**: O aplicativo segue as diretrizes de design do Material Design, proporcionando uma experiência visual e de usabilidade consistente.
-- 
--  **Banco de Dados**: Neste aplicativo foi utilizado o Firebase no qual oferece um banco de dados NoSQL em tempo real que sincroniza dados em tempo real entre os clientes.
--  
-- 
+  
+-  **Banco de Dados**: Neste aplicativo foi utilizado o banco de dados do Firebase onde oferece um banco de dados NoSQL em tempo real que sincroniza dados em tempo real entre os clientes.
+  
+
 ## Recursos Principais
 
 - Criação, edição e exclusão de tarefas.
